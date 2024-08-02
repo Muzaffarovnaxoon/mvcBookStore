@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "O'tkan kunlar",
+    "desc": "Tarixiy va romantik kitob",
+    "count": "10",
+    "price": 20000,
+    "authorId": 1,
+    "categoryId": 1,
+    "img": "https://play-lh.googleusercontent.com/_GQD8w1f_N0245EV9IzRvxf1gCMr-cRYGNQNhJJriUyJcAga8yFEw8nABrc4Q_alHA"
+  },
+  {
+    "id": 2,
+    "title": "Kecha va kunduz",
+    "desc": "Tarixiy va romantik kitob",
+    "count": "15",
+    "price": 22000,
+    "authorId": 2,
+    "categoryId": 1,
+    "img": "https://kitobxon.com/img_knigi/6963.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Sariq devni minib",
+    "price": "15000",
+    "count": "7",
+    "desc": "juda kulguli va haqiqat yozilgan kitob",
+    "img": "https://kitobxon.com/img_knigi/1546.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Ikki eshik orasi",
+    "price": "28000",
+    "count": "30",
+    "desc": "Hayotiy va ta'sirli kitob",
+    "img": "https://upload.wikimedia.org/wikipedia/uz/6/6d/Ikki_eshik_orasi.jpg"
+  }
+]

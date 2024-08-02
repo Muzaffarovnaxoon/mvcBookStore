@@ -1,0 +1,70 @@
+[
+  {
+    "id": 1,
+    "clientName": "Dilso'z",
+    "book": {
+      "id": 2,
+      "title": "Kecha va kunduz",
+      "desc": "Tarixiy va romantik kitob",
+      "count": "15",
+      "price": 22000,
+      "authorId": 2,
+      "categoryId": 1,
+      "img": "https://kitobxon.com/img_knigi/6963.jpg"
+    },
+    "count": "5",
+    "phone": "+998 99 099 43 03",
+    "address": "Toshkent shahar Mirzo Ulug'bek"
+  },
+  {
+    "id": 2,
+    "clientName": "Shahnoza",
+    "book": {
+      "id": 1,
+      "title": "O'tkan kunlar",
+      "desc": "Tarixiy va romantik kitob",
+      "count": "10",
+      "price": 20000,
+      "authorId": 1,
+      "categoryId": 1,
+      "img": "https://play-lh.googleusercontent.com/_GQD8w1f_N0245EV9IzRvxf1gCMr-cRYGNQNhJJriUyJcAga8yFEw8nABrc4Q_alHA"
+    },
+    "count": "3",
+    "phone": "99-099-00-99",
+    "address": "Toshkent viloyati Bo'stonliq tumani"
+  },
+  {
+    "id": 3,
+    "clientName": "Sadridin",
+    "book": {
+      "id": 1,
+      "title": "O'tkan kunlar",
+      "desc": "Tarixiy va romantik kitob",
+      "count": "10",
+      "price": 20000,
+      "authorId": 1,
+      "categoryId": 1,
+      "img": "https://play-lh.googleusercontent.com/_GQD8w1f_N0245EV9IzRvxf1gCMr-cRYGNQNhJJriUyJcAga8yFEw8nABrc4Q_alHA"
+    },
+    "count": "5",
+    "phone": "990999900",
+    "address": "Soyliq qishlog'i"
+  },
+  {
+    "id": 4,
+    "clientName": "Musfira",
+    "book": {
+      "id": 1,
+      "title": "O'tkan kunlar",
+      "desc": "Tarixiy va romantik kitob",
+      "count": "10",
+      "price": 20000,
+      "authorId": 1,
+      "categoryId": 1,
+      "img": "https://play-lh.googleusercontent.com/_GQD8w1f_N0245EV9IzRvxf1gCMr-cRYGNQNhJJriUyJcAga8yFEw8nABrc4Q_alHA"
+    },
+    "count": "10",
+    "phone": "990009900",
+    "address": "G'azalkent shahri"
+  }
+]
